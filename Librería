@@ -1,0 +1,29 @@
+# Mi Tienda Digital
+
+## Project Description
+Mi Tienda Digital is an e-commerce platform designed to streamline the process of buying and selling products online. It offers a seamless experience for both buyers and sellers, enabling efficient transactions with various payment options.
+
+## Features
+- User-friendly interface
+- Secure payment processing
+- Inventory management for sellers
+- Search functionality for products
+- Order tracking system
+- Customer reviews and ratings
+
+## Categories
+- Electronics
+- Fashion
+- Home & Garden
+- Toys & Hobbies
+- Health & Beauty
+- Sports
+
+## Installation Instructions
+1. Clone the repository: `git clone https://github.com/socialmediasv-pixelCreame/mi-tienda-digital.git`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
+4. Access the app at `http://localhost:3000`.
+
+## License
+This project is licensed under the MIT License.
